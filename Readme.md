@@ -82,7 +82,7 @@ Gräbner, C., Heimberger, P., Kapeller, J. and Schütz, B. (2019a):
 Is the Eurozone disintegrating? Macroeconomic divergence, structural polarization, trade and fragility, *Cambridge Journal of Economics*, forthcoming. 
 DOI: [10.1093/cje/bez059](https://doi.org/10.1093/cje/bez059).
 
-Gräbner, C., Heimberger, P., Kapeller, J. and Schütz, B. (2019b): Replication Data for: Is the Eurozone disintegrating? Macroeconomic divergence, structural polarization, trade and fragility, DOI: [10.7910/DVN/1PGDM4](https://doi.org/10.7910/DVN/1PGDM4), Harvard Dataverse, Version 2.
+Gräbner, C., Heimberger, P., Kapeller, J. and Schütz, B. (2019b): Replication Data for: Is the Eurozone disintegrating? Macroeconomic divergence, structural polarization, trade and fragility, DOI: [10.7910/DVN/1PGDM4](https://doi.org/10.7910/DVN/1PGDM4), Harvard Dataverse, Version 3.
 
 Gräbner, C., Heimberger, P., Kapeller, J. and Schütz, B. (2019c): 
 Structural change in times of increasing openness: assessing path dependency in 
