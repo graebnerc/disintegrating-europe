@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.DS_Store
+code/.DS_Store
+code/obsolete
+data/obsolete
+data/bilat_hs2.rda
+data/harv_hs.csv.bz2
+output/obsolete
+notes
+supplementary-material/.texpadtmp

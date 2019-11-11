@@ -1,0 +1,42 @@
+---
+title: "Is Europe disintegrating?"
+author: "Claudius Gräbner"
+date: "20 4 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Structural change in times of increasing openness: assessing path dependency in European economic integration
+[Claudius Gräbner](https://claudius-graebner.com), [Philipp Heimberger](https://wiiw.ac.at/philipp-heimberger-s-1138.html), [Jakob Kapeller](https://jakob-kapeller.org/) and [Bernhard Schütz](https://www.jku.at/institut-fuer-die-gesamtanalyse-der-wirtschaft/ueber-uns/team/bernhard-schuetz/)
+
+Here we provide all the data and the code to replicate all empirical exercises in the abovementioned paper.
+You can access a freely available working paper version of the paper [here](https://www.jku.at/fileadmin/gruppen/108/ICAE_Working_Papers/wp76.pdf).
+
+The repository contains all code and data to replicate all figures and tables in the paper. 
+
+## Description
+The R code re-creates the following figures of the paper:
+
+- Figure 1: Output and unemployment in Germany and the Southern EZ periphery (section 1)
+- Figure 2: Current account balance in the core and the periphery 2000-2008 (section 2)
+- Figure 5: Hidden polarization (section 3)
+- Figure 4: Change of Gini of exports and imports over time (section 3)
+- Figure 5: Deviation from expected output for more complex products (section 3)
+
+The following figures can be reproduced via the Mathematica notebooks:
+
+- Figure 6: Change in debt relative to initial GDP (1999-2016)
+- Figure 7: Avg. evolution of household debt as a percentage of GDP (1999-2015)
+
+The code assumes that the working directory is structured as follows:
+`working-directory/code/` contains all the R and Mathematica files, 
+`working-directory/data/` contains the data and `working-directory/output/final_figures/` exists. 
+All figures will be saved in this folder.
+
+## Original system specification
+
+The file `output/session_info.txt` contains information about the hardware as well as the packages used when the output for the original paper was produced.
+
